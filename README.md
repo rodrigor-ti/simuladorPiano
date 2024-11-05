@@ -1,4 +1,4 @@
-# 🎹 Simulador de Piano
+# 🎹 Simulador de Piano 🎮🕹️
 
 
 Bem-vindo ao Simulador de Piano Virtual! Esta aplicação interativa foi desenvolvida como parte de um curso da Digital Innovation One, com o objetivo de proporcionar uma experiência imersiva e intuitiva para tocar piano de forma virtual. Ao combinar fundamentos de programação em JavaScript, o simulador permite que usuários explorem a criação de sons e músicas diretamente do navegador, com teclas interativas que imitam a sensação de um piano real. Ideal para iniciantes ou entusiastas de música, o projeto oferece uma forma divertida de aprender conceitos de programação enquanto experimenta a arte da música digital.
